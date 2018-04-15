@@ -1,3 +1,5 @@
 poczatek
 
 zmiana 1
+
+zmiana 3
