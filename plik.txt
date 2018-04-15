@@ -3,3 +3,4 @@ poczatek
 zmiana 1
 
 zmiana 4
+ zmiana 5
